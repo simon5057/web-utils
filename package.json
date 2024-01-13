@@ -1,0 +1,26 @@
+{
+  "name": "web-utils",
+  "version": "1.0.0",
+  "description": "> For record purpose. > Some utils I wrote.",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simon5057/web-utils.git"
+  },
+  "author": "simon5057",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/simon5057/web-utils/issues"
+  },
+  "homepage": "https://github.com/simon5057/web-utils#readme",
+  "dependencies": {
+    "eventemitter3": "^5.0.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.3.3"
+  }
+}
